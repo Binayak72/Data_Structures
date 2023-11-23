@@ -1,0 +1,6 @@
+# ninja log v5
+4	278	1692251641532516185	CMakeFiles/Data_Structures.dir/Search.cpp.o	3ad9fa522e5e75c8
+285	313	1691429377731273886	Data_Structures	778886ab09d9f8f3
+3	402	1691117966065918341	CMakeFiles/Data_Structures.dir/main.cpp.o	8fdf06bf1da542b2
+3	285	1691429377700620695	CMakeFiles/Data_Structures.dir/main1.cpp.o	46f01b3f8e6647cf
+0	40	1692253257665717196	build.ninja	d8efbab83e5b43f4

@@ -1,0 +1,27 @@
+cmake_minimum_required(VERSION 3.26)
+project(Data_Structures)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(Data_Structures main.cpp)
+add_executable(Data_Structures Search.cpp)
+add_executable(Data_Structures Sorting.cpp)
+add_executable(Data_Structures Lab_Evaluation.cpp)
+add_executable(Data_Structures Evaluation.cpp)
+add_executable(Data_Structures Linked_list.cpp)
+add_executable(Data_Structures Lab_Evaluation_2.cpp)
+add_executable(Data_Structures Insertion_Sort.cpp)
+add_executable(Data_Structures MergeSort.cpp)
+add_executable(Data_Structures Queue_Implementation.cpp)
+add_executable(Data_Structures Infix_to_Postfix.cpp)
+add_executable(Data_Structures Postfix_Conversion.cpp)
+add_executable(Data_Structures Lab_Evaluation_3.cpp)
+add_executable(Data_Structures Queue_Operation.cpp)
+add_executable(Data_Structures Bug_Hunting.cpp)
+add_executable(Data_Structures Binary_Search_Tree.cpp)
+add_executable(Data_Structures BFS.cpp)
+add_executable(Data_Structures DFS.cpp)
+add_executable(Data_Structures Lab_Evaluation_4.cpp)
+add_executable(Data_Structures Linked_list_Practice.cpp)
+
+

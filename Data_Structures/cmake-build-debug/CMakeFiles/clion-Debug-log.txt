@@ -1,0 +1,146 @@
+/Users/binayakmahato/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Users/binayakmahato/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/binayakmahato/CLionProjects/Data_Structures -B /Users/binayakmahato/CLionProjects/Data_Structures/cmake-build-debug
+CMake Error at CMakeLists.txt:7 (add_executable):
+  add_executable cannot create target "Data_Structures" because another
+  target with the same name already exists.  The existing target is an
+  executable created in source directory
+  "/Users/binayakmahato/CLionProjects/Data_Structures".  See documentation
+  for policy CMP0002 for more details.
+
+
+CMake Error at CMakeLists.txt:8 (add_executable):
+  add_executable cannot create target "Data_Structures" because another
+  target with the same name already exists.  The existing target is an
+  executable created in source directory
+  "/Users/binayakmahato/CLionProjects/Data_Structures".  See documentation
+  for policy CMP0002 for more details.
+
+
+CMake Error at CMakeLists.txt:9 (add_executable):
+  add_executable cannot create target "Data_Structures" because another
+  target with the same name already exists.  The existing target is an
+  executable created in source directory
+  "/Users/binayakmahato/CLionProjects/Data_Structures".  See documentation
+  for policy CMP0002 for more details.
+
+
+CMake Error at CMakeLists.txt:10 (add_executable):
+  add_executable cannot create target "Data_Structures" because another
+  target with the same name already exists.  The existing target is an
+  executable created in source directory
+  "/Users/binayakmahato/CLionProjects/Data_Structures".  See documentation
+  for policy CMP0002 for more details.
+
+
+CMake Error at CMakeLists.txt:11 (add_executable):
+  add_executable cannot create target "Data_Structures" because another
+  target with the same name already exists.  The existing target is an
+  executable created in source directory
+  "/Users/binayakmahato/CLionProjects/Data_Structures".  See documentation
+  for policy CMP0002 for more details.
+
+
+CMake Error at CMakeLists.txt:12 (add_executable):
+  add_executable cannot create target "Data_Structures" because another
+  target with the same name already exists.  The existing target is an
+  executable created in source directory
+  "/Users/binayakmahato/CLionProjects/Data_Structures".  See documentation
+  for policy CMP0002 for more details.
+
+
+CMake Error at CMakeLists.txt:13 (add_executable):
+  add_executable cannot create target "Data_Structures" because another
+  target with the same name already exists.  The existing target is an
+  executable created in source directory
+  "/Users/binayakmahato/CLionProjects/Data_Structures".  See documentation
+  for policy CMP0002 for more details.
+
+
+CMake Error at CMakeLists.txt:14 (add_executable):
+  add_executable cannot create target "Data_Structures" because another
+  target with the same name already exists.  The existing target is an
+  executable created in source directory
+  "/Users/binayakmahato/CLionProjects/Data_Structures".  See documentation
+  for policy CMP0002 for more details.
+
+
+CMake Error at CMakeLists.txt:15 (add_executable):
+  add_executable cannot create target "Data_Structures" because another
+  target with the same name already exists.  The existing target is an
+  executable created in source directory
+  "/Users/binayakmahato/CLionProjects/Data_Structures".  See documentation
+  for policy CMP0002 for more details.
+
+
+CMake Error at CMakeLists.txt:16 (add_executable):
+  add_executable cannot create target "Data_Structures" because another
+  target with the same name already exists.  The existing target is an
+  executable created in source directory
+  "/Users/binayakmahato/CLionProjects/Data_Structures".  See documentation
+  for policy CMP0002 for more details.
+
+
+CMake Error at CMakeLists.txt:17 (add_executable):
+  add_executable cannot create target "Data_Structures" because another
+  target with the same name already exists.  The existing target is an
+  executable created in source directory
+  "/Users/binayakmahato/CLionProjects/Data_Structures".  See documentation
+  for policy CMP0002 for more details.
+
+
+CMake Error at CMakeLists.txt:18 (add_executable):
+  add_executable cannot create target "Data_Structures" because another
+  target with the same name already exists.  The existing target is an
+  executable created in source directory
+  "/Users/binayakmahato/CLionProjects/Data_Structures".  See documentation
+  for policy CMP0002 for more details.
+
+
+CMake Error at CMakeLists.txt:19 (add_executable):
+  add_executable cannot create target "Data_Structures" because another
+  target with the same name already exists.  The existing target is an
+  executable created in source directory
+  "/Users/binayakmahato/CLionProjects/Data_Structures".  See documentation
+  for policy CMP0002 for more details.
+
+
+CMake Error at CMakeLists.txt:20 (add_executable):
+  add_executable cannot create target "Data_Structures" because another
+  target with the same name already exists.  The existing target is an
+  executable created in source directory
+  "/Users/binayakmahato/CLionProjects/Data_Structures".  See documentation
+  for policy CMP0002 for more details.
+
+
+CMake Error at CMakeLists.txt:21 (add_executable):
+  add_executable cannot create target "Data_Structures" because another
+  target with the same name already exists.  The existing target is an
+  executable created in source directory
+  "/Users/binayakmahato/CLionProjects/Data_Structures".  See documentation
+  for policy CMP0002 for more details.
+
+
+CMake Error at CMakeLists.txt:22 (add_executable):
+  add_executable cannot create target "Data_Structures" because another
+  target with the same name already exists.  The existing target is an
+  executable created in source directory
+  "/Users/binayakmahato/CLionProjects/Data_Structures".  See documentation
+  for policy CMP0002 for more details.
+
+
+CMake Error at CMakeLists.txt:23 (add_executable):
+  add_executable cannot create target "Data_Structures" because another
+  target with the same name already exists.  The existing target is an
+  executable created in source directory
+  "/Users/binayakmahato/CLionProjects/Data_Structures".  See documentation
+  for policy CMP0002 for more details.
+
+
+CMake Error at CMakeLists.txt:24 (add_executable):
+  add_executable cannot create target "Data_Structures" because another
+  target with the same name already exists.  The existing target is an
+  executable created in source directory
+  "/Users/binayakmahato/CLionProjects/Data_Structures".  See documentation
+  for policy CMP0002 for more details.
+
+
+-- Configuring incomplete, errors occurred!
